@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+nav{
+    font-size: 2em;
+    background-color: lightgray;
+}
+
+.main-content{
+    height: 1000px;
+    background-color: lightgray;
+}
+
+.icon-bar{
+    text-align: center;
+}
